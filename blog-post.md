@@ -40,7 +40,7 @@ https://teams.microsoft.com/l/channel/19%3A...%40thread.tacv2/ChannelName?groupI
 
 Click the button below to deploy the solution directly to your Azure subscription:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FJayRHa%2FAdminTaskNotification%2Fmain%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FJayRHa%2Fintune-admin-task-notifications%2Fmain%2Fazuredeploy.json)
 
 Fill in the required parameters:
 
